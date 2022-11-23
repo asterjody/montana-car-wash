@@ -1,0 +1,471 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+
+  <title>Montana Car Wash</title>
+  <meta content="" name="description">
+  <meta content="" name="keywords">
+
+  <!-- Favicons -->
+  <link href="assets/img/favicon.png" rel="icon">
+  <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+
+  <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,400i,600,700|Raleway:300,400,400i,500,500i,700,800,900" rel="stylesheet">
+
+  <!-- Vendor CSS Files -->
+  <link href="assets/vendor/animate.css/animate.min.css" rel="stylesheet">
+  <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
+  <link href="assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
+  <link href="assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
+  <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
+
+  <!-- Template Main CSS File -->
+  <link href="assets/css/style.css" rel="stylesheet">
+
+  <!-- =======================================================
+  * Template Name: eBusiness - v4.7.0
+  * Template URL: https://bootstrapmade.com/ebusiness-bootstrap-corporate-template/
+  * Author: BootstrapMade.com
+  * License: https://bootstrapmade.com/license/
+  ======================================================== -->
+</head>
+
+<body>
+
+  <!-- ======= Header ======= -->
+  <header id="header" class="fixed-top d-flex align-items-center">
+    <div class="container d-flex justify-content-between">
+
+      <div class="logo">
+        <h1><a href="index.html"><span>Montana </span>Car Wash</a></h1>
+        <!-- Uncomment below if you prefer to use an image logo -->
+        <!-- <a href="index.html"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
+      </div>
+
+      <nav id="navbar" class="navbar">
+        <ul>
+          <li><a class="nav-link scrollto active" href="#hero">Profil</a></li>
+          <li><a class="nav-link scrollto" href="#info">Informasi Antrian</a></li>
+          <li><a class="nav-link scrollto" href="#harga">Harga</a></li>
+          <li><a class="nav-link scrollto" href="#kontak">Kontak</a></li>
+          <li><a class="nav-link scrollto" href="#member">Member</a></li>
+          <li><a href="blog.html">Login</a></li>
+        
+        </ul>
+        <i class="bi bi-list mobile-nav-toggle"></i>
+      </nav><!-- .navbar -->
+
+    </div>
+  </header><!-- End Header -->
+
+  <!-- ======= hero Section ======= -->
+  <section id="hero">
+    <div class="hero-container">
+      <div id="heroCarousel" class="carousel slide carousel-fade" data-bs-ride="carousel" data-bs-interval="5000">
+
+        <ol id="hero-carousel-indicators" class="carousel-indicators"></ol>
+
+        <div class="carousel-inner" role="listbox">
+
+          <div class="carousel-item active" style="background-image: url(assets/img/hero-carousel/1.jpg)">
+            <div class="carousel-container">
+              <div class="container">
+                <h2 class="animate__animated animate__fadeInDown">The Best Business Information </h2>
+                <p class="animate__animated animate__fadeInUp">We're In The Business Of Helping You Start Your Business</p>
+                <a href="#about" class="btn-get-started scrollto animate__animated animate__fadeInUp">Get Started</a>
+              </div>
+            </div>
+          </div>
+
+          <div class="carousel-item" style="background-image: url(assets/img/hero-carousel/2.jpg)">
+            <div class="carousel-container">
+              <div class="container">
+                <h2 class="animate__animated animate__fadeInDown">At vero eos et accusamus</h2>
+                <p class="animate__animated animate__fadeInUp">Helping Business Security & Peace of Mind for Your Family</p>
+                <a href="#about" class="btn-get-started scrollto animate__animated animate__fadeInUp">Get Started</a>
+              </div>
+            </div>
+          </div>
+
+          <div class="carousel-item" style="background-image: url(assets/img/hero-carousel/3.jpg)">
+            <div class="carousel-container">
+              <div class="container">
+                <h2 class="animate__animated animate__fadeInDown">Temporibus autem quibusdam</h2>
+                <p class="animate__animated animate__fadeInUp">Beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem</p>
+                <a href="#about" class="btn-get-started scrollto animate__animated animate__fadeInUp">Get Started</a>
+              </div>
+            </div>
+          </div>
+
+        </div>
+
+        <a class="carousel-control-prev" href="#heroCarousel" role="button" data-bs-slide="prev">
+          <span class="carousel-control-prev-icon bi bi-chevron-left" aria-hidden="true"></span>
+        </a>
+
+        <a class="carousel-control-next" href="#heroCarousel" role="button" data-bs-slide="next">
+          <span class="carousel-control-next-icon bi bi-chevron-right" aria-hidden="true"></span>
+        </a>
+
+      </div>
+    </div>
+  </section><!-- End Hero Section -->
+
+  <main id="main">
+
+    <!-- ======= About Section ======= -->
+    <div id="profil" class="about-area area-padding">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-12 col-sm-12 col-xs-12">
+            <div class="section-headline text-center">
+              <h2>About eBusiness</h2>
+            </div>
+          </div>
+        </div>
+        <div class="row">
+          <!-- single-well start-->
+          <div class="col-md-6 col-sm-6 col-xs-12">
+            <div class="well-left">
+              <div class="single-well">
+                <a href="#">
+                  <img src="assets/img/about/1.jpg" alt="">
+                </a>
+              </div>
+            </div>
+          </div>
+          <!-- single-well end-->
+          <div class="col-md-6 col-sm-6 col-xs-12">
+            <div class="well-middle">
+              <div class="single-well">
+                <a href="#">
+                  <h4 class="sec-head">project Maintenance</h4>
+                </a>
+                <p>
+                  Redug Lagre dolor sit amet, consectetur adipisicing elit. Itaque quas officiis iure aspernatur sit adipisci quaerat unde at nequeRedug Lagre dolor sit amet, consectetur adipisicing elit. Itaque quas officiis iure
+                </p>
+                <ul>
+                  <li>
+                    <i class="bi bi-check"></i> Interior design Package
+                  </li>
+                  <li>
+                    <i class="bi bi-check"></i> Building House
+                  </li>
+                  <li>
+                    <i class="bi bi-check"></i> Reparing of Residentail Roof
+                  </li>
+                  <li>
+                    <i class="bi bi-check"></i> Renovaion of Commercial Office
+                  </li>
+                  <li>
+                    <i class="bi bi-check"></i> Make Quality Products
+                  </li>
+                </ul>
+              </div>
+            </div>
+          </div>
+          <!-- End col-->
+        </div>
+      </div>
+    </div><!-- End About Section -->
+	
+	
+    <!-- ======= Services Section ======= -->
+    <div id="info" class="services-area area-padding">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-12 col-sm-12 col-xs-12">
+            <div class="section-headline services-head text-center">
+              <h2>Informasi Antrian</h2>
+            </div>
+          </div>
+        </div>
+		
+		  <table class="table">
+        <thead>
+            <tr>
+                <td>No</td>
+                <td>Nama Mobil</td>
+                <td>Plat Nomor</td>
+                <td>Jenis Cuci</td>           
+				<td>Status</td>   				
+            </tr>
+        </thead>
+        <?php
+        include "koneksi.php";
+        $no = 1;
+        $query = mysqli_query($kon, 'SELECT * FROM `antrian`');
+        while ($data = mysqli_fetch_array($query)) {
+        ?>
+            <tr>
+                <td><?php echo $no++ ?></td>
+                <td><?php echo $data['mobil_antrian'] ?></td>
+                <td><?php echo $data['platnomor_antrian'] ?></td>
+                <td><?php echo $data['jeniscuci_antrian'] ?></td>
+				<td><?php echo $data['status_antrian'] ?></td>
+            </tr>
+        <?php } ?>
+    </table>
+		
+	
+	 <!-- ======= Pricing Section ======= -->
+    <div id="harga" class="pricing-area area-padding">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-12 col-sm-12 col-xs-12">
+            <div class="section-headline text-center">
+              <h2>Harga</h2>
+			  <h3>Daftar Harga Jasa Pencucian Mobil Montana Car Wash</h3>
+			  <br>
+            </div>
+          </div>
+        </div>
+		  <div class="row">
+          <div class="col-md-3 col-sm-3 col-xs-12">
+            <div class="pri_table_list">
+              <h3><br>Normal <br /> <span>Rp.40.000 / 1 x Cuci</span></h3>
+              <ol>
+                <li class="check"><i class="bi bi-check"></i><span>Cuci Bodi Mobil</span></li>
+                <li class="check"><i class="bi bi-check"></i><span>Pembersihan Interior Mobil</span></li>
+                <li class="check"><i class="bi bi-check"></i><span>Vacuum Interior Mobil</span></li>
+                <li class="cross"><i class="bi bi-x"></i><span>Penggunaan Hidrolik</span></li>
+                <li class="cross"><i class="bi bi-x"></i><span>Reservasi Langsung <br>Secara Online</span></li>
+                <li class="cross"><i class="bi bi-x"></i><span>Akses ke Member Area</span></li>
+              </ol>
+            </div>
+          </div>
+		    <div class="col-md-3 col-sm-3 col-xs-12">
+            <div class="pri_table_list">
+             <h3><br>Hidrolik <br /> <span>Rp.50.000 / 1 x Cuci</span></h3>
+              <ol>
+                <li class="check"><i class="bi bi-check"></i><span>Cuci Bodi Mobil</span></li>
+                <li class="check"><i class="bi bi-check"></i><span>Pembersihan Interior Mobil</span></li>
+                <li class="check"><i class="bi bi-check"></i><span>Vacuum Interior Mobil</span></li>
+                <li class="check"><i class="bi bi-check"></i><span>Penggunaan Hidrolik</span></li>
+                <li class="cross"><i class="bi bi-x"></i><span>Reservasi Langsung <br>Secara Online</span></li>
+                <li class="cross"><i class="bi bi-x"></i><span>Akses ke Member Area</span></li>
+              </ol>
+            </div>
+          </div>
+          <div class="col-md-3 col-sm-3 col-xs-12">
+            <div class="pri_table_list active">
+              <span class="saleon">Best deal</span>
+              <h3>Member<br>Normal <br /> <span>Rp.250.000 / 10 x Cuci</span></h3>
+              <ol>
+                <li class="check"><i class="bi bi-check"></i><span>Cuci Bodi Mobil</span></li>
+                <li class="check"><i class="bi bi-check"></i><span>Pembersihan Interior Mobil</span></li>
+                <li class="check"><i class="bi bi-check"></i><span>Vacuum Interior Mobil</span></li>
+                <li class="cross"><i class="bi bi-x"></i><span>Penggunaan Hidrolik</span></li>
+                <li class="check"><i class="bi bi-check"></i><span>Reservasi Langsung <br>Secara Online</span></li>
+                <li class="check"><i class="bi bi-check"></i><span>Akses ke Member Area</span></li>
+              </ol>
+            </div>
+          </div>
+		   <div class="col-md-3 col-sm-3 col-xs-12">
+            <div class="pri_table_list active">
+              <span class="saleon">Best deal</span>
+              <h3>Member<br>Hidrolik <br /> <span>Rp.300.000 / 10 x Cuci</span></h3>
+              <ol>
+                <li class="check"><i class="bi bi-check"></i><span>Cuci Bodi Mobil</span></li>
+                <li class="check"><i class="bi bi-check"></i><span>Pembersihan Interior Mobil</span></li>
+                <li class="check"><i class="bi bi-check"></i><span>Vacuum Interior Mobil</span></li>
+                <li class="check"><i class="bi bi-check"></i><span>Penggunaan Hidrolik</span></li>
+                <li class="check"><i class="bi bi-check"></i><span>Reservasi Langsung <br>Secara Online</span></li>
+                <li class="check"><i class="bi bi-check"></i><span>Akses ke Member Area</span></li>
+            </div>
+          </div>
+        
+        </div>
+      </div>
+    </div><!-- End Pricing Section -->
+
+	
+	 <!-- ======= Contact Section ======= -->
+    <div id="kontak" class="contact-area">
+      <div class="contact-inner area-padding">
+        <div class="contact-overly"></div>
+        <div class="container ">
+          <div class="row">
+            <div class="col-md-12 col-sm-12 col-xs-12">
+              <div class="section-headline text-center">
+                <h2>Kontak</h2>
+              </div>
+            </div>
+          </div>
+          <div class="row">
+            <!-- Start contact icon column -->
+            <div class="col-md-4">
+              <div class="contact-icon text-center">
+                <div class="single-icon">
+                  <i class="bi bi-phone"></i>
+                  <p>
+                    Whatsapp: +62 812 8686 5480<br>
+                    <span>Setiap Hari (07.00-20.00)</span>
+                  </p>
+                </div>
+              </div>
+            </div>
+            <!-- Start contact icon column -->
+            <div class="col-md-4">
+              <div class="contact-icon text-center">
+                <div class="single-icon">
+                  <i class="bi bi-envelope"></i>
+                  <p>
+                    Email: montanacarwash@gmail.com<br>
+                    <span>Web: www.montanacarwash.id</span>
+                  </p>
+                </div>
+              </div>
+            </div>
+            <!-- Start contact icon column -->
+            <div class="col-md-4">
+              <div class="contact-icon text-center">
+                <div class="single-icon">
+                  <i class="bi bi-geo-alt"></i>
+                  <p>
+                    Jl. Raden Saleh No.35, RT.001/RW.005, Karang Tengah, Kec. Ciledug, <br>
+                    <span>Kota Tangerang, Banten 15157</span>
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="row">
+
+            <!-- Start Google Map --
+            <div class="col-md-6">
+              <!-- Start Map --
+              <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d22864.11283411948!2d-73.96468908098944!3d40.630720240038435!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c24fa5d33f083b%3A0xc80b8f06e177fe62!2sNew+York%2C+NY%2C+USA!5e0!3m2!1sen!2sbg!4v1540447494452" width="100%" height="380" frameborder="0" style="border:0" allowfullscreen></iframe>
+              <!-- End Map --
+            </div>
+            <!-- End Google Map -->
+
+            <!-- Start  contact -->
+            <div class="col-md-12">
+              <div class="form contact-form">
+                <form action="forms/contact.php" method="post" role="form" class="php-email-form">
+                  <div class="form-group">
+                    <input type="text" name="name" class="form-control" id="name" placeholder="Nama Anda" required>
+                  </div>
+                  <div class="form-group mt-3">
+                    <input type="email" class="form-control" name="email" id="email" placeholder="Email Anda" required>
+                  </div>
+                  <div class="form-group mt-3">
+                    <input type="text" class="form-control" name="subject" id="subject" placeholder="Subjek" required>
+                  </div>
+                  <div class="form-group mt-3">
+                    <textarea class="form-control" name="message" rows="5" placeholder="Kritik dan Saran" required></textarea>
+                  </div>
+                  <div class="my-3">
+                    <div class="loading">Loading</div>
+                    <div class="error-message"></div>
+                    <div class="sent-message">Kritik dan Saran Anda Sudah Dikirim!</div>
+                  </div>
+                  <div class="text-center"><button type="submit">Kirim</button></div>
+                </form>
+              </div>
+            </div>
+            <!-- End Left contact -->
+          </div>
+        </div>
+      </div>
+    </div><!-- End Contact Section -->
+
+  </main><!-- End #main -->
+
+  <!-- ======= Footer ======= -->
+  <footer>
+    <div class="footer-area">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-6">
+            <div class="footer-content">
+              <div class="footer-head">
+                <div class="footer-logo">
+                  <h2><span>Montana </span>Car Wash</h2>
+                </div>
+
+                <p>Jl. Raden Saleh No.35, RT.001/RW.005, Karang Tengah, Kec. Ciledug,<br> Kota Tangerang, Banten 15157</p>
+                <div class="footer-icons">
+                  <ul>
+                    <li>
+                      <a href="#"><i class="bi bi-facebook"></i></a>
+                    </li>
+                    <li>
+                      <a href="#"><i class="bi bi-twitter"></i></a>
+                    </li>
+                    <li>
+                      <a href="#"><i class="bi bi-instagram"></i></a>
+                    </li>
+                    <li>
+                      <a href="#"><i class="bi bi-linkedin"></i></a>
+                    </li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+          </div>
+          <!-- end single footer -->
+          <div class="col-md-6">
+            <div class="footer-content">
+              <div class="footer-head">
+                <h4>informasi</h4>
+               
+                <div class="footer-contacts">
+                  <p><span>Telefon:</span> (021) 7314391</p>
+                  <p><span>Email:</span> montanacarwash@gmail.com</p>
+                  <p><span>Buka:</span> 07.00-20.00</p>
+                </div>
+              </div>
+            </div>
+          </div>
+          <!-- end single footer -->
+          
+        </div>
+      </div>
+    </div>
+    <div class="footer-area-bottom">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-12 col-sm-12 col-xs-12">
+            <div class="copyright text-center">
+              <p>
+                &copy; Copyright <strong>eBusiness</strong>. All Rights Reserved
+              </p>
+            </div>
+            <div class="credits">
+              <!--
+              All the links in the footer should remain intact.
+              You can delete the links only if you purchased the pro version.
+              Licensing information: https://bootstrapmade.com/license/
+              Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/buy/?theme=eBusiness
+            -->
+              Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </footer><!-- End  Footer -->
+
+  <div id="preloader"></div>
+  <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
+
+  <!-- Vendor JS Files -->
+  <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="assets/vendor/glightbox/js/glightbox.min.js"></script>
+  <script src="assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
+  <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
+  <script src="assets/vendor/php-email-form/validate.js"></script>
+
+  <!-- Template Main JS File -->
+  <script src="assets/js/main.js"></script>
+
+</body>
+
+</html>
